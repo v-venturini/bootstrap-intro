@@ -1,0 +1,9 @@
+.container {
+    font-family: cursive;
+    background-color: #F37520;
+    padding: 30px 0;
+}
+li {
+    padding: 10px;
+    background-color: #ededed;
+}
